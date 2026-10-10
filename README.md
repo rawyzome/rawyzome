@@ -1,5 +1,7 @@
-## Hi there 👋
+## hello coders 🐦‍⬛☢️
+<h1 align="center">hello coders🐦‍⬛☢️</h1>
 
+<p align="center">coding - games - videos - music</p>
 <!--
 **rawyzome/rawyzome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
