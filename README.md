@@ -1,9 +1,7 @@
 <h1 align="center">hello coders🐦‍⬛☢️</h1>
 <p align="center">coding - games - videos - music</p>
 - learning c++ and more...
-<p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=1132936850049515421" width="400" alt="test test test tets">
-</p>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1132936850049515421" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 <!--
 **rawyzome/rawyzome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
