@@ -1,10 +1,13 @@
-<h1 align="center">🐦‍⬛hello coders🐦‍☢️s</h1>
+<h1 align="center">🐦‍⬛hello coders☢️</p>
 <p align="center">─── ❖ ─── ✦ ─── ❖ ───</p>
 <p align="center">coding - games - videos - music</p>
-- learning c++ and more...
+<p align= "center">learning c++ and more...</p>
 <p align="center">─── ❖ ─── ✦ ─── ❖ ───</p>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/9sIawPn" data-context="false" ><a href="//imgur.com/a/9sIawPn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p align="center">
+  <img src="https://imgur.com/a/9sIawPn" width="400" alt="Cute Cat GIF">
+</p>
+
 <!--
 **rawyzome/rawyzome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
