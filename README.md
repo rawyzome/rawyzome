@@ -5,7 +5,7 @@
 <p align="center">─── ❖ ─── ✦ ─── ❖ ───</p>
 
 <p align="center">
-  <img src="https://imgur.com/a/9sIawPn" width="400" alt="Cute Cat GIF">
+  <img src="https://imgur.com/a/9sIawPn" width="400">
 </p>
 
 <!--
